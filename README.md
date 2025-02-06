@@ -19,8 +19,6 @@ I'm passionate about artificial intelligence and its real-world applications. My
 
 ## 📖 Repositories
 
-## 📖 Repositories  
-
 A collection of my projects. Some are old, and there are many things I would do differently now, so don’t be too critical!  
 
 ### 🤖 AI Competition  
